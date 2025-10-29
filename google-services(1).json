@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426666840713",
+    "project_id": "qahwagypaha",
+    "storage_bucket": "qahwagypaha.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426666840713:android:84f90370e2e4af56806c58",
+        "android_client_info": {
+          "package_name": "com.qahwagypaha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYqmO2mjb4TB5asqeN-Ck32_ra-cGdVz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
